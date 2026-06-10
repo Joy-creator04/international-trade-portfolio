@@ -126,6 +126,11 @@ text-align:center;
 padding:15px;
 }
 
+.theme-switcher{
+text-align:center;
+padding:15px;
+}
+
 .theme-switcher button{
 padding:10px 15px;
 margin:5px;
@@ -133,6 +138,8 @@ border:none;
 border-radius:8px;
 cursor:pointer;
 font-weight:bold;
+background:#2563EB;
+color:white;
 }
 
 .dark-theme{
